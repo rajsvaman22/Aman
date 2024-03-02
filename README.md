@@ -2,14 +2,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
 
-- 🔭 I’m currently working on a MERN Project
+- 🔭 I’m currently working on Website Projects
 - 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Finance
+- 💬 Ask me about Technology
 - 📫 How to reach me: rajsvaman22@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Information Technology
 
-<a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/rajsvaman22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
 
